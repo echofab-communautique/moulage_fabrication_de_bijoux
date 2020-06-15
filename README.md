@@ -1,4 +1,4 @@
-# Moulage_et_fabrication_de_bijou_en_métal_à_bas_point_de_fusion ======
+# Moulage_et_fabrication_de_bijou_en_métal_à_bas_point_de_fusion
 
 Moulage et fabrication de bijou en métal à bas point de fusion
 
